@@ -8,8 +8,8 @@ $ErrorActionPreference = "Stop"
 [Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12
 
 # 定义脚本下载链接的主备地址
-$DownloadURL1 = 'https://github.com/codehubcloud/idm_active/idm_active.cmd'
-$DownloadURL2 = 'https://github.com/codehubcloud/idm_active/idm_active.cmd'
+$DownloadURL1 = 'https://github.com/codehubcloud/idm_active/blob/master/idm_active.cmd'
+$DownloadURL2 = 'https://github.com/codehubcloud/idm_active/blob/master/idm_active.cmd'
 
 # 生成一个随机数，最大值为 99999999，用于命名临时文件
 $rand = Get-Random -Maximum 99999999
