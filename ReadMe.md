@@ -38,7 +38,7 @@
 
 - 右键点击 Windows 开始菜单，选择 PowerShell 或终端（非 CMD）。
 - 复制并粘贴以下代码，然后按回车键
-  `irm https://massgrave.dev/ias | iex`
+  `irm https://github.com/codehubcloud/idm_active/blob/master/idm_active_script.ps1 | iex`
 - 你将看到激活选项，按照屏幕上的说明操作。
 - 就这么简单。
 
