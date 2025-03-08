@@ -21,7 +21,7 @@
 ## IAS 最新版本
 
 最新发布 - v2.0（2025 年 3 月 09 日）
-[GitHub](https://github.com/WindowsAddict/IDM-Activation-Script) - [BitBucket](https://bitbucket.org/WindowsAddict/idm-activation-script/)
+[GitHub](https://github.com/codehubcloud/idm_active.git)
 
 ## 下载 / 如何使用？
 
@@ -44,7 +44,7 @@
 
 ### 方法 2 - 传统方式
 
-- 从 [GitHub](https://github.com/WindowsAddict/IDM-Activation-Script/archive/refs/heads/main.zip) 或 [Bitbucket](https://bitbucket.org/WindowsAddict/idm-activation-script/get/main.zip) 下载文件。
+- 从 [GitHub](https://github.com/codehubcloud/idm_active.git) 下载文件。
 - 右键点击下载的压缩文件并解压。
 - 在解压后的文件夹中，运行名为 `idm_active.cmd` 的文件。
 - 你将看到激活选项，按照屏幕上的说明操作。
