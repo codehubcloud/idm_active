@@ -46,7 +46,7 @@
 
 - 从 [GitHub](https://github.com/WindowsAddict/IDM-Activation-Script/archive/refs/heads/main.zip) 或 [Bitbucket](https://bitbucket.org/WindowsAddict/idm-activation-script/get/main.zip) 下载文件。
 - 右键点击下载的压缩文件并解压。
-- 在解压后的文件夹中，运行名为 `IAS.cmd` 的文件。
+- 在解压后的文件夹中，运行名为 `idm_active.cmd` 的文件。
 - 你将看到激活选项，按照屏幕上的说明操作。
 - 就这么简单。
 
